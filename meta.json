@@ -1,0 +1,16 @@
+{
+    "name": "Duplicate Finder",
+    "description": "Finds duplicate movies and tags them.",
+    "version": "1.0.0.0",
+    "category": "Library",
+    "guid": "93A5E794-E050-4D85-8334-92445C16837E",
+    "overview": "Scans the library for duplicate movies and tags them with 'Duplicate'.",
+    "owner": "LDroid",
+    "targetAbi": "10.11.0.0",
+    "changelog": "Initial release",
+    "timestamp": "2025-12-03T00:00:00Z",
+    "status": "Active",
+    "autoUpdate": false,
+    "imagePath": "/config/plugins/DuplicateFinder_1.0.0.0/plugin_icon.png",
+    "assemblies": []
+}
